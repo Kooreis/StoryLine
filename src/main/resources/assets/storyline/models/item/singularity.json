@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "storyline:item/singularity",
+    "layer1": "storyline:item/singularity2"
+  }
+}

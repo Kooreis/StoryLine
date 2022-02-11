@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "storyline:block/small_solid_green_zychorium_bricks"
+  }
+}

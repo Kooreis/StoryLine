@@ -1,0 +1,6 @@
+{
+  "parent": "storyline:block/advanced_machine_top",
+  "textures": {
+    "top": "storyline:block/fabricator"
+  }
+}

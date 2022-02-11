@@ -8,5 +8,7 @@
   "item.storyline.vital_spark": "§4Vital Spark",
   "item.storyline.singularity": "§9Singularity",
   "item.storyline.causality_collapser": "§cCausality Collapser",
-  "item.storyline.experience_cube": "§aExperience Cube"
+  "item.storyline.experience_cube": "§aExperience Cube",
+  "item.storyline.wet_purifying_soap": "§2Wet Purifying Soap",
+  "effect.storyline.static": "Static"
 }

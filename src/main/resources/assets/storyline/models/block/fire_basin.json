@@ -1,0 +1,7 @@
+{
+  "parent": "storyline:block/basic_machine_top",
+  "textures": {
+    "side": "storyline:block/fire_basin_side",
+    "top": "storyline:block/fire_basin_top"
+  }
+}

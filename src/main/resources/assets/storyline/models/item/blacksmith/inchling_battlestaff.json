@@ -1,0 +1,13 @@
+{
+  "parent": "storyline:item/parents_mcdw/model_staff",
+  "textures": {
+	  "layer0": "storyline:item/blacksmith/staff_battlestaff"
+  },
+  "display": {
+    "head": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 2, 4, -0.5],
+      "scale":[ 1, 1, 0.5 ]
+	}
+  }
+}

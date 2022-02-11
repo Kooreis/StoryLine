@@ -1,0 +1,9 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "CTM",
+		"textures": [
+		    "storyline:block/dire_viewer_ctm"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "CTM",
+		"textures": [
+		    "storyline:block/zychorium_lamp_ctm"
+		],
+		"extra": {
+		    "ignore_states": true
+		}
+	}
+}

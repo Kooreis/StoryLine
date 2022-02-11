@@ -1,0 +1,9 @@
+{
+  "parent": "storyline:item/aluminium_foil_empty",
+  "textures": {
+    "fluid": "block/water_still"
+  },
+  "visibility": {
+    "level_9": true
+  }
+}

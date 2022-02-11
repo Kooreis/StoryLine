@@ -1,0 +1,11 @@
+{
+    "parent": "storyline:block/zy_cube",
+    "textures": {
+        "overlay_down": "storyline:block/advanced_machine",
+        "overlay_up": "#top",
+        "overlay_north": "storyline:block/advanced_machine",
+        "overlay_east": "storyline:block/advanced_machine",
+        "overlay_south": "storyline:block/advanced_machine",
+        "overlay_west": "storyline:block/advanced_machine"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "storyline:item/parents_mcdw/model_glaive",
+  "textures": {
+	  "layer0": "storyline:item/blacksmith/spear_venom_glaive"
+  },
+  "display": {
+    "head": {
+      "rotation": [ 0, 0, 180 ],
+      "translation": [ -1, 1, -0.5],
+      "scale":[ 2, 2, 0.5 ]
+	}
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:obj",
+  "model": "storyline:models/obj/zychorium.obj",
+  "textures": {
+    "inside": "storyline:cloud2",
+    "outside": "storyline:obj/zychorium"
+  },
+  "detectCullableFaces": false,
+  "flip-v": true
+}

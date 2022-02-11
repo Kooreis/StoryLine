@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "flipped=false": {
+      "model": "storyline:block/zychorium_soil"
+    },
+    "flipped=true": {
+      "model": "storyline:block/zychorium_soil",
+      "x": 180
+    }
+  }
+}

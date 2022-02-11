@@ -1,0 +1,9 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "CTM",
+		"textures": [
+		    "storyline:block/dark_viewer_ctm"
+		]
+	}
+}

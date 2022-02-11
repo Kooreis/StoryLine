@@ -1,0 +1,106 @@
+{
+  "parent": "block/block",
+  "loader": "storyline:fluid_container",
+  "fluid_textures": [ "fluid" ],
+  "model": {
+    "parent": "storyline:item/aluminium_foil_empty",
+    "overrides": [
+      {
+        "predicate": {
+          "storyline:filled": 0.0625
+        },
+        "model": "storyline:item/aluminium_foil_level_1"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.125
+        },
+        "model": "storyline:item/aluminium_foil_level_2"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.1875
+        },
+        "model": "storyline:item/aluminium_foil_level_3"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.25
+        },
+        "model": "storyline:item/aluminium_foil_level_4"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.3125
+        },
+        "model": "storyline:item/aluminium_foil_level_5"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.375
+        },
+        "model": "storyline:item/aluminium_foil_level_6"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.4375
+        },
+        "model": "storyline:item/aluminium_foil_level_7"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.5
+        },
+        "model": "storyline:item/aluminium_foil_level_8"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.5625
+        },
+        "model": "storyline:item/aluminium_foil_level_9"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.625
+        },
+        "model": "storyline:item/aluminium_foil_level_10"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.6875
+        },
+        "model": "storyline:item/aluminium_foil_level_11"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.75
+        },
+        "model": "storyline:item/aluminium_foil_level_12"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.8125
+        },
+        "model": "storyline:item/aluminium_foil_level_13"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.875
+        },
+        "model": "storyline:item/aluminium_foil_level_14"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 0.9375
+        },
+        "model": "storyline:item/aluminium_foil_level_15"
+      },
+      {
+        "predicate": {
+          "storyline:filled": 1.0
+        },
+        "model": "storyline:item/aluminium_foil_level_16"
+      }
+    ]
+  }
+}

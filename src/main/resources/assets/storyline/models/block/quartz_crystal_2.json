@@ -1,0 +1,6 @@
+{
+  "parent": "storyline:block/quartz_crystal",
+  "visibility": {
+    "2": true
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "storyline:block/zy_cube_all",
+  "textures": {
+    "all": "storyline:block/zychorized_engineering_block"
+  }
+}

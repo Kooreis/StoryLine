@@ -1,0 +1,6 @@
+{
+  "parent": "storyline:block/multi_interface_vertical",
+  "textures": {
+    "side": "storyline:block/item_io"
+  }
+}

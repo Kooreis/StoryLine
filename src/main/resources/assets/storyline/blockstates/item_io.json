@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=all": {
+      "model": "storyline:block/item_io"
+    },
+    "axis=x": {
+      "model": "storyline:block/item_io_horizontal",
+      "y": 90
+    },
+    "axis=y": {
+      "model": "storyline:block/item_io_vertical"
+    },
+    "axis=z": {
+      "model": "storyline:block/item_io_horizontal"
+    }
+  }
+}

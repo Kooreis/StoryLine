@@ -1,0 +1,7 @@
+{
+  "parent": "storyline:block/colorable_cube_all",
+  "textures": {
+    "base": "storyline:block/the_aurey_block",
+    "all": "storyline:block/zychorium_block"
+  }
+}

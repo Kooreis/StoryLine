@@ -4,9 +4,11 @@
   "package": "net.kreis.storyline.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "InGameHudMixin",
+    "PlayerEntityClientMixin"
   ],
   "client": [
-    "ExampleMixin"
+    "PlayerEntityClientMixin"
   ],
   "injectors": {
     "defaultRequire": 1

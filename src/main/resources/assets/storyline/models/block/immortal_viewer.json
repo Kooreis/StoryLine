@@ -1,0 +1,7 @@
+{
+  "parent": "storyline:block/colorable_cube_all",
+  "textures": {
+    "base": "storyline:block/immortal_viewer_base",
+    "all": "storyline:block/immortal_viewer_overlay"
+  }
+}

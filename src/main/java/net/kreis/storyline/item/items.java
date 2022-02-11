@@ -1,5 +1,6 @@
 package net.kreis.storyline.item;
 
+import net.fabricmc.fabric.api.item.v1.FabricItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.kreis.storyline.StoryLine;
 import net.minecraft.item.Item;
@@ -10,6 +11,8 @@ import net.minecraft.util.registry.Registry;
 public class items {
 
     public static final Item SHIFTING_SCALE = registerItem("shifting_scale",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item WET_PURIFYING_SOAP = registerItem("wet_purifying_soap",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
     public static final Item MEMORY_FRAGMENT = registerItem("memory_fragment",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));

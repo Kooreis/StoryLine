@@ -1,0 +1,11 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"extra": {
+		    "light": 15
+		}
+	},
+	"fabric": {
+	    "loader": "storyline:cloud"
+	}
+}

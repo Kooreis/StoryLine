@@ -1,0 +1,11 @@
+{
+    "parent": "storyline:block/zy_cube",
+    "textures": {
+        "overlay_down": "storyline:block/basic_machine",
+        "overlay_up": "#top",
+        "overlay_north": "#side",
+        "overlay_east": "#side",
+        "overlay_south": "#side",
+        "overlay_west": "#side"
+    }
+}

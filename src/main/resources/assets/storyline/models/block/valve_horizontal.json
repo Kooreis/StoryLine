@@ -1,0 +1,6 @@
+{
+  "parent": "storyline:block/multi_interface_horizontal",
+  "textures": {
+    "side": "storyline:block/valve"
+  }
+}

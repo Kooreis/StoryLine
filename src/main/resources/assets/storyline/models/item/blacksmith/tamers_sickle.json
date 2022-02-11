@@ -1,0 +1,13 @@
+{
+	"parent": "storyline:item/parents_mcdw/model_sickle",
+	"textures": {
+		"layer0": "storyline:item/blacksmith/sickle_last_laugh_gold"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 2, 0],
+			"scale":[ 0.5, 0.5, 0.5 ]
+		}
+	}
+}
